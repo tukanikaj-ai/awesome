@@ -606,7 +606,7 @@
 - [CI/CD Attacks](https://github.com/TupleType/awesome-cicd-attacks#readme) - Offensive research of systems and processes related to developing and deploying code.
 - [OpenID Connect](https://github.com/cerberauth/awesome-openid-connect#readme) - Identity standard and authentication protocol built on OAuth 2.0 for user identity assertion.
 
-## Content Management Systems
+## Content Managemen
 
 - [Umbraco](https://github.com/umbraco-community/awesome-umbraco#readme)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms#readme) - Ruby on Rails CMS.
@@ -620,9 +620,9 @@
 - [Plone](https://github.com/collective/awesome-plone#readme) - Open source Python CMS.
 - [Payload](https://github.com/DanailMinchev/awesome-payload#readme) - Next.js native and open source headless CMS.
 
-## Hardware
+## software 
 
-- [Robotics](https://github.com/Kiloreux/awesome-robotics#readme)
+- [Robotic talk ](https://github.com/Kiloreux/awesome-robotics#readme)
 - [Internet of Things](https://github.com/HQarroum/awesome-iot#readme)
 - [Electronics](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
 - [Bluetooth Beacons](https://github.com/rabschi/awesome-beacon#readme)
